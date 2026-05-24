@@ -33,7 +33,7 @@ A narrative-driven 2D puzzle platformer exploring a child's imagination as he ov
 
 ## 📫 Let's Connect!
 * [Itch.io](https://flubbedtulip.itch.io/)
-* [Linkedin](www.linkedin.com/in/rami-hubishi-2b731a390)
+* [Linkedin](https://www.linkedin.com/in/rami-hubeishi-2b731a390/)
 ---
 ### 📊 GitHub Stats
 [![Rami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlubbedTulip&show_icons=true&count_private=true&hide_title=true&theme=dark)](https://github.com/FlubbedTulip)
