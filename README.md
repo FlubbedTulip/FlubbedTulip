@@ -13,7 +13,7 @@
 
 ## Featured Projects
 
-### Codename Zinnia — 3D Swarm Game *(in progress)*
+### Codename 'Zinnia' - a 3D Swarm Game *(in progress)*
 My capstone project for the Bezalel Game Design & Development minor, built with a team.
 > **Core mechanics**: a controllable 3D swarm — flocking agents that follow, scatter, and react as one living mass.
 > **Architecture**: every steering rule (separation, alignment, cohesion, leader-follow, wander, obstacle-avoidance) is a hot-swappable `ScriptableObject` (Strategy + Composition), so an entire swarm "personality" is composed by dragging assets into a list - no code changes.
@@ -39,7 +39,7 @@ A 2D top-down roguelike where you play as a tiny fox gathering recipe ingredient
 > **Role**: Gameplay Programmer - designed and implemented the random map generation algorithm and dynamic item placement systems.
 > [▶️ Play on Itch.io](https://danaeck.itch.io/the-little-helper)
 
-### Mega Man (1987) — Recreation
+### Mega Man (1987) - Recreation
 My final project for Introduction to Unity, the first course of the Bezalel minor.
 > A faithful recreation of the classic NES-era Mega Man: run-and-gun platforming, shooting mechanics, enemy patterns, and level hazards.
 > **Role**: Solo - full implementation.
