@@ -25,6 +25,7 @@ A single-button boss battle built for the Advanced Unity course - a study in cle
 > **Core mechanics**: a multi-phase boss that escalates through designer-configured health thresholds, each phase running its own attack patterns.
 > **Engineering**: generic type-constrained object pooling, a custom event bus for decoupled systems, coroutine-driven attack patterns behind an abstract Strategy base, and interface-based contracts.
 > **Role**: Solo - design, architecture, and implementation.
+>  [▶️ Play on Itch.io](https://flubbedtulip.itch.io/one-button-boss-fan-remake)
 
 ### Zeninja
 A high-octane 2D action-arcade game developed in one week for the Brackeys Game Jam 2025.2.
