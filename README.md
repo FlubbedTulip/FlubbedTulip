@@ -32,7 +32,7 @@ A single-button boss battle built for the Advanced Unity course — a study in c
 A high-octane 2D action-arcade game developed in one week for the Brackeys Game Jam 2025.2.
 > **Core mechanics**: slingshot-style charge-and-release movement utilizing screen borders as bouncy walls to slice through incoming enemy waves.
 > **Role**: Gameplay Programmer and **top contributor (60 commits)** — architected the enemy system with the Strategy pattern: swappable movement (`IMovementBehavior` — straight-line & sine) and targeting (`ITargetProvider`) behaviours, an interface-based health/damage system, a data-driven multi-spawn-point spawner with escalating difficulty, and an event-driven combo-scoring system.
-> [▶️ Play on Itch.io](https://omerelhadad.itch.io/zeninja) · [📂 Source](https://github.com/ouroboros-98/peony)
+> [▶️ Play on Itch.io](https://omerelhadad.itch.io/zeninja)
 
 ### The Little Helper
 A 2D top-down roguelike where you play as a tiny fox gathering recipe ingredients in a hazardous environment.
