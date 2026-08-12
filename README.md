@@ -42,10 +42,10 @@ A 2D top-down roguelike where you play as a tiny fox gathering recipe ingredient
 ### Mega Man (1987) — Recreation
 My final project for Introduction to Unity, the first course of the Bezalel minor.
 > A faithful recreation of the classic NES-era Mega Man: run-and-gun platforming, shooting mechanics, enemy patterns, and level hazards.
-> **Role**: Solo — full implementation.
+> **Role**: Solo - full implementation.
 
-> 🎮 My complete playable portfolio lives on **[itch.io](https://flubbedtulip.itch.io/)**.
-> Some projects are coursework hosted in private university organizations — code samples available on request.
+🎮 My complete playable portfolio lives on **[itch.io](https://flubbedtulip.itch.io/)**.
+Some projects are coursework hosted in private university organizations - code samples available on request.
 
 ## 📫 Let's Connect!
 * [Itch.io](https://flubbedtulip.itch.io/)
